@@ -10,6 +10,7 @@
     <?php
         include 'includes/header.php';
     ?>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
 
 <body class=""> <!-- royal_preloader -->
@@ -84,7 +85,7 @@
 
                                     data-frames='[{"delay":900,"speed":1000,"frame":"0","from":"x:50px;opacity:0;","to":"o:1;","ease":"power3.inOut"},{"delay":"wait","speed":1000,"frame":"999","to":"x:50px;opacity:0;","ease":"power3.inOut"}]'
 
-                                    data-textAlign="['left','left','left','left']">Build, Transform, Innovative
+                                    data-textAlign="['left','left','left','left']">Build, Transform, Innovate
                                 </div>
 
                                 <!-- LAYER 5  Paragraph-->
@@ -213,7 +214,7 @@
 
                                     data-frames='[{"delay":900,"speed":1000,"frame":"0","from":"x:50px;opacity:0;","to":"o:1;","ease":"power3.inOut"},{"delay":"wait","speed":1000,"frame":"999","to":"x:50px;opacity:0;","ease":"power3.inOut"}]'
 
-                                    data-textAlign="['left','left','left','left']">Build, Transform, Innovative
+                                    data-textAlign="['left','left','left','left']">Build, Transform, Innovate
                                 </div>
 
                                 <!-- LAYER 5  Paragraph-->
@@ -284,7 +285,7 @@
                                     data-frames='[{"delay":500,"split":"chars","splitdelay":0.1,"speed":500,"frame":"0","from":"x:[105%];z:0;rX:45deg;rY:0deg;rZ:90deg;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"power4.inOut"},{"delay":"wait","speed":1000,"frame":"999","to":"x:50px;z:0;rX:0deg;rY:0deg;rZ:0deg;sX:1;sY:1;skX:0;skY:0;","ease":"power3.inOut"}]'
 
                                     data-textAlign="['center','center','center','center']">
-                                    Innovative
+                                    Innovate
                                 </div>
 
 
@@ -304,7 +305,7 @@
 
                                     data-frames='[{"delay":900,"speed":1000,"frame":"0","from":"x:50px;opacity:0;","to":"o:1;","ease":"power3.inOut"},{"delay":"wait","speed":1000,"frame":"999","to":"x:50px;opacity:0;","ease":"power3.inOut"}]'
 
-                                    data-textAlign="['left','left','left','left']">Build, Transform, Innovative
+                                    data-textAlign="['left','left','left','left']">Build, Transform, Innovate
                                 </div>
 
                                 <!-- LAYER 5  Paragraph-->
@@ -377,7 +378,7 @@
                         </div>
                         <div class="col-lg-6 col-md-12">
                             <div class="story-author">
-                                <img src="images/image1-home1.png" class="" alt="">
+                                <img src="images/md.png" class="" alt="">
                                 <div class="story-content">
                                     <h5 class="story-title">JOSEPH ZAAROUR</h5>
                                     <p class="story-description">MANAGING DIRECTOR</p>
@@ -450,6 +451,7 @@
                     </div>
                 </div>
             </div> -->
+            
             <!-- <div>
                 <div class="container-fluid">
                     <div class="row justify-content-center">
@@ -493,17 +495,18 @@
                 </div>
             </div> -->
 
+
             <div>
                 <div class="container-fluid">
                     <div class="row justify-content-center">
                         <div class="col-lg-4 col-md-6 px-0">
                             <div class="cate-lines h-light">
-                                <div class="cate-item">
-                                    <a href="#">
+                                <div class="cate-item" data-target="build">
+                                    <a href="javascript:void(0);" data-target="build">
                                         <img src="images/banner/banner39.jpg" alt="">
                                     </a>
                                     <div class="cate-item_content">
-                                        <a href="#">
+                                        <a href="javascript:void(0);" data-target="build">
                                             <h2>Build<span class="number-stroke">01</span></h2>
                                         </a>
                                     </div>
@@ -512,8 +515,8 @@
                         </div>
                         <div class="col-lg-4 col-md-6 px-0">
                             <div class="cate-lines h-light">
-                                <div class="cate-item">
-                                    <a href="#">
+                                <div class="cate-item" data-target="transform">
+                                    <a href="javascript:void(0);">
                                         <img src="images/banner/banner42.jpg" alt="">
                                     </a>
                                     <div class="cate-item_content">
@@ -526,16 +529,17 @@
                         </div>
                         <div class="col-lg-4 col-md-6 px-0">
                             <div class="cate-lines h-light">
-                                <div class="cate-item">
-                                    <a href="#">
+                                <div class="cate-item" data-target="innovate">
+                                    <a href="javascript:void(0);">
                                         <img src="images/banner/banner40.jpg" alt="">
                                     </a>
                                     <div class="cate-item_content">
-                                        <a href="#">
+                                        <a href="javascript:void(0);">
                                             <h2>Innovate<span class="number-stroke">03</span></h2>
                                         </a>
                                     </div>
                                 </div>
+                                
                             </div>
                         </div>
 
@@ -543,7 +547,178 @@
                 </div>
             </div>
 
+            <script>
+                document.addEventListener("DOMContentLoaded", function () {
+                    function toggleMenuByTarget(target) {
+                        const menuBtn = document.getElementById(`btn-${target}`);
+                        if (!menuBtn) return;
 
+                        const originalMenu = menuBtn.nextElementSibling;
+                        if (!originalMenu || !originalMenu.classList.contains('sub-menu')) return;
+
+                        // Remove all previously shown submenus below sections
+                        document.querySelectorAll('.cloned-submenu').forEach(clone => clone.remove());
+
+                        // Clone the submenu
+                        const clonedMenu = originalMenu.cloneNode(true);
+                        clonedMenu.classList.add('cloned-submenu');
+                        clonedMenu.style.display = 'block';
+                        clonedMenu.style.opacity = '1';
+                        clonedMenu.style.visibility = 'visible';
+                        clonedMenu.style.transform = 'none';
+
+                        // Append below the clicked .cate-item
+                        const targetSection = document.querySelector(`.cate-item[data-target="${target}"]`);
+                        if (targetSection) {
+                            targetSection.insertAdjacentElement('afterend', clonedMenu);
+
+                            // Re-attach close button event for cloned submenu
+                            clonedMenu.querySelectorAll('.submenu-close').forEach(closeBtn => {
+                                closeBtn.addEventListener('click', function (e) {
+                                    e.stopPropagation();
+                                    clonedMenu.remove();
+                                });
+                            });
+                        }
+                    }
+
+                    // Handle cate-item click
+                    document.querySelectorAll('.cate-item[data-target]').forEach(item => {
+                        const target = item.getAttribute('data-target');
+                        item.addEventListener('click', (e) => {
+                            e.preventDefault();
+                            toggleMenuByTarget(target);
+                        });
+                        item.querySelectorAll('a').forEach(link => {
+                            link.addEventListener('click', e => e.preventDefault());
+                        });
+                    });
+
+                    // Handle navbar plus-btn click
+                    document.querySelectorAll('.plus-btn').forEach(btn => {
+                        btn.addEventListener('click', function (e) {
+                            e.preventDefault();
+                            const id = this.id.replace('btn-', '');
+                            toggleMenuByTarget(id);
+                        });
+                    });
+
+                    // Handle close icon
+                    clonedMenu.querySelectorAll('.submenu-close').forEach(closeBtn => {
+                        closeBtn.addEventListener('click', function (e) {
+                            e.stopPropagation();
+                            const submenu = this.closest('.cloned-submenu');
+                            if (submenu) {
+                                submenu.remove();
+                            }
+                        });
+                    });
+
+
+                    document.addEventListener('click', function (e) {
+                        e.stopPropagation(); // 🛑 Prevent event from triggering other click events
+                        const popup = document.querySelector('.cloned-submenu');
+                        
+                        if (popup && !popup.contains(e.target) && !e.target.closest('.cate-item')) {
+                            popup.remove();
+                            // Also remove "i-minus" class if any plus button is toggled
+                            document.querySelectorAll('.plus-btn .i-plus').forEach(icon => {
+                                icon.classList.remove('i-minus');
+                            });
+                        }
+                    });
+
+                    
+                });
+
+
+            </script>
+
+            <style>
+                
+                /* Close button styling */
+                .submenu-close {
+                    position: absolute;
+                    /* top: 15px; */
+                    right: 15px;
+                    cursor: pointer;
+                    z-index: 1001;
+                    background: rgba(0,0,0,0.1);
+                    width: 30px;
+                    height: 30px;
+                    border-radius: 50%;
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    transition: all 0.3s ease;
+                }
+
+                .submenu-close:hover {
+                    background: rgba(0,0,0,0.2);
+                }
+
+                .close-icon {
+                    display: block;
+                    width: 15px;
+                    height: 15px;
+                    position: relative;
+                }
+
+                .close-icon:before, 
+                .close-icon:after {
+                    content: '';
+                    position: absolute;
+                    top: 50%;
+                    left: 50%;
+                    width: 100%;
+                    height: 2px;
+                    background: #333;
+                    transition: all 0.3s ease;
+                }
+
+                .close-icon:before {
+                    transform: translate(-50%, -50%) rotate(45deg);
+                }
+
+                .close-icon:after {
+                    transform: translate(-50%, -50%) rotate(-45deg);
+                }
+
+                /* --------- */
+                .cloned-submenu {
+                    position: relative;
+                    z-index: 100;
+                    margin-top: 10px;
+                }
+
+                .cloned-submenu,
+                .cloned-submenu li {
+                    list-style: none;
+                    padding: 0;
+                    margin: 0;
+                }
+
+                .cloned-submenu {
+                    position: relative;
+                    z-index: 100;
+                    margin-top: 10px;
+                    max-height: 500px; /* Adjust as needed */
+                    overflow: auto;
+                    border-radius: 10px;
+                }
+                .cloned-submenu .submenu-box {
+                    padding: 20px;
+                }
+
+
+            </style>
+
+
+
+
+
+
+            <!-- Services -->
             <section class="services-1">
                 <div class="grid-lines grid-lines-vertical">
                     <span class="g-line-vertical line-left color-line-default"></span>
@@ -651,7 +826,7 @@
                     <!-- Counter End -->
                 </div>
             </section>
-
+            
 
 
 

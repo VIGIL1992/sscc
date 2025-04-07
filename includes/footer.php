@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-xl-3 col-lg-6 col-md-6 col-sm-12 mb-4 mb-xl-0">
                 <div class="widget-footer">
-                    <img src="images/bg/logo_white.png" class="footer-logo" alt="">
+                    <img src="images/sscc_logo_white.png" class="footer-logo" alt="">
                     <p style="text-align: justify;">
                         We work across most sectors from residential and commercial buildings, to industrial structures.
                         Our ability to provide value engineering and turnkey solutions as well as design and project 
@@ -72,7 +72,8 @@
         </div>
     </div>
 </footer><!-- #site-footer -->
-<style>.footer-list {
+<style>
+.footer-list {
     list-style: none;
     padding: 0;
     margin: 0;
@@ -109,8 +110,8 @@
             <div class="col-lg-7 col-md-12 mb-4 mb-lg-0">
                 <p>&copy;<script>
                         document.write(new Date().getFullYear());
-                    </script><a href="#"></a>SSCC All Rights Reserved | Developed with <i class="fa-solid fa-heart"></i> by Pixell Media
-                    <a href="https://www.pixellmedia.com/" target="new"></a><a href="https://cheapwebsitedubai.com/">&nbsp;</a>
+                    </script> SSCC | All Rights Reserved | Developed with <i class="fa-solid fa-heart"></i> by Pixell Media
+                    <a href="https://www.pixellmedia.com/" target="new"></a>
                 </p>
             </div>
             <div class="col-lg-5 col-md-12 align-self-center">

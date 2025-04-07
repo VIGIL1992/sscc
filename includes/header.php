@@ -6,7 +6,7 @@
 <link rel="stylesheet" href="css/magnific-popup.css" />
 <link rel="stylesheet" href="css/lightgallery.css" />
 <link rel="stylesheet" href="css/woocommerce.css" />
-<link rel="stylesheet" href="css/royal-preload.css" />
+<!-- <link rel="stylesheet" href="css/royal-preload.css" /> -->
 
 <link rel="stylesheet" href="style.css" />
 <!-- REVOLUTION SLIDER CSS -->
@@ -14,3 +14,5 @@
 <!-- REVOLUTION NAVIGATION STYLE -->
 <link rel="stylesheet" type="text/css" href="plugins/revolution/revolution/css/navigation.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+
+
