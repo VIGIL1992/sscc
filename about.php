@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
 
-    <title>About Us | SSCC</title>
+    <title>Our Story | SSCC</title>
     <link rel="shortcut icon" type="image/x-icon" href="images/bg/SSCC.png" />
     <?php
         include 'includes/header.php';
@@ -17,7 +17,7 @@
     <div id="royal_preloader"></div>
     <div id="page" class="site">
         <?php
-        include 'includes/navbar.php';
+            include 'includes/navbar3.php';
         ?>
 
 
@@ -26,10 +26,10 @@
             <div class="page-header dtable text-center header-transparent pheader-about">
                 <div class="dcell">
                     <div class="container">
-                        <h1 class="page-title">About Us</h1>
+                        <h1 class="page-title">Our Story</h1>
                         <ul id="breadcrumbs" class="breadcrumbs none-style">
                             <li><a href="index.php">Home</a></li>
-                            <li class="active">About Us</li>
+                            <li class="active">Our Story</li>
                         </ul>
                     </div>
                 </div>
@@ -48,7 +48,7 @@
                         <div class="about-detail">
                             <div class="ot-heading is-dots">
                                 <span>[ about company ]</span>
-                                <h2 class="main-heading">Build . Transform . Innovative</h2>
+                                <h2 class="main-heading">Build . Transform . Innovate</h2>
                             </div>
                             <p>Sustainable Solutions Construction Co. LLC, established in 2021, specializes in fast track construction, design-build and value engineering projects.
                                 We work across most sectors from residential and commercial buildings, to industrial structures.
@@ -76,10 +76,9 @@
                                 <div class="overlay flex-middle">
                                     <div class="inner">
                                         <p>
-                                            Our mission is to design and construct high-quality, sustainable buildings that enhance communities and 
-                                            exceed client expectations. We are committed to safety, innovation, and excellence in every project—from 
-                                            residential homes to commercial complexes—ensuring timely delivery, cost-effectiveness, and environmental 
-                                            responsibility.
+                                        Our mission is to design and construct high-quality, sustainable buildings that exceed our client expectations. 
+                                        We are committed to safety, innovation, and excellence in every project—from residential,
+                                         commercial to industrial—ensuring timely delivery, cost-effectiveness, safe and environmental responsibility.
                                         </p>
                                     </div>
                                 </div>
@@ -99,9 +98,9 @@
                                 <div class="overlay flex-middle">
                                     <div class="inner">
                                         <p>
-                                            Our vision is to be the leading construction firm recognized for transforming skylines and shaping the future 
-                                            of urban living. We aspire to create lasting structures that embody architectural excellence, drive economic 
-                                            growth, and set new benchmarks in the industry through cutting-edge technology and a relentless pursuit of quality.
+                                        Our vision is to be the leading construction firm recognized for designing, building and transforming spaces of industrial facilities.
+                                         We aspire to create lasting structures that embody architectural excellence, 
+                                        drive economic growth, and set new benchmarks in the industry through cutting-edge technology and a relentless pursuit of safety and quality.
                                         </p>
                                     </div>
                                 </div>
@@ -120,7 +119,7 @@
                             <div class="inner-box">
                                 <div class="overlay flex-middle">
                                     <div class="inner">
-                                        <p>Integrity & Transparency:
+                                        <p>Our Core Values are Integrity, Safety, Respect, Quality, Innovation, Sustainability & Transparency: 
                                             We operate with honesty and openness, building trust with our clients, partners, and employees through ethical practices and clear communication.
                                         </p>
                                     </div>

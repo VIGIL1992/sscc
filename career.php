@@ -9,7 +9,7 @@
     <title>Careers | SSCC</title>
     <link rel="shortcut icon" type="image/x-icon" href="images/bg/SSCC.png" />
     <?php
-    include 'includes/header.php';
+        include 'includes/header.php';
     ?>
 </head>
 
@@ -17,7 +17,7 @@
     <div id="royal_preloader"></div>
     <div id="page" class="site">
         <?php
-            include 'includes/navbar.php';
+            include 'includes/navbar3.php';
         ?>
 
 
@@ -42,11 +42,11 @@
                 <div class="col-md-12 text-center theratio-align-center">
                     <div class="ot-heading is-dots">
                         <span>[Careers]</span>
-                        <h2 class="main-heading">Focused and future ready</h2><br>
-                        <p>We build with more than just concrete and steel; we build long-standing relationships. SSCC Group commits to a partnership approach for all projects that it manages.
-                            Centered on the idea of making our community better, from Pre-erection work; new construction and repair,
-                            alteration, restoration and maintenance work on residential buildings, non-residential buildings or civil engineering works;
-                            SSCC assists our clients with their projects from concept to completion and proudly offers the following construction-based solutions:</p>
+                        <h2 class="main-heading">JOIN US</h2><br>
+                        <p>
+                            Sustainable Solutions Construction Co. LLC offers challenging and rewarding positions in a variety 
+                            of disciplines. If you would like to join our team, please get in touch with us.
+                        </p>
                     </div>
                     <div class="space-50"></div>
                 </div>
@@ -57,10 +57,13 @@
                 <!-- Left Side - Image and Text -->
                 <div class="career-image-content">
                     <img src="images/banner/banner35.jpg" alt="Join Our Team">
-                    <div class="career-text">
+                    <!-- <div class="career-text">
                         <h2>JOIN US</h2>
-                        <p><strong>Sustainable Solutions Construction Co. LLC</strong> offers challenging and rewarding positions in a variety of disciplines. If you would like to join our team, please get in touch with us.</p>
-                    </div>
+                        <p>
+                            Sustainable Solutions Construction Co. LLC offers challenging and rewarding positions in a variety 
+                            of disciplines. If you would like to join our team, please get in touch with us.
+                        </p>
+                    </div> -->
                 </div>
 
                 <!-- Right Side - Form -->
@@ -198,8 +201,8 @@
 
         <?php
 
-        include 'includes/footer.php';
-        include 'includes/scripts.php';
+            include 'includes/footer.php';
+            include 'includes/scripts.php';
         ?>
 
 

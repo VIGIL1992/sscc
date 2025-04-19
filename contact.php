@@ -18,7 +18,7 @@
     <div id="page" class="site">
 
         <?php
-            include 'includes/navbar.php';
+            include 'includes/navbar3.php';
         ?>
 
 

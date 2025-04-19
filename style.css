@@ -75,7 +75,7 @@ hr {
  * 2. Correct the odd `em` font sizing in all browsers.
  */
 pre {
-  font-family: monospace, monospace;
+  font-family:"HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   /* 1 */
   font-size: 1em;
   /* 2 */
@@ -118,7 +118,7 @@ strong {
 code,
 kbd,
 samp {
-  font-family: monospace, monospace;
+  font-family:"HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   /* 1 */
   font-size: 1em;
   /* 2 */
@@ -365,7 +365,7 @@ select,
 optgroup,
 textarea {
   color: #555555;
-  font-family: "Raleway", sans-serif;
+  font-family: "HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 16px;
   line-height: 1.875;
   font-weight: 400;
@@ -383,7 +383,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Titillium Web", sans-serif;
+  font-family: "HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-weight: 400;
   line-height: 1.4;
   margin: 0 0 20px;
@@ -440,13 +440,13 @@ blockquote {
   font-weight: 400;
   padding: 50px 160px 0;
   position: relative;
-  font-family: "Titillium Web", sans-serif;
+  font-family: "HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   color: #1a1a1a;
   text-align: center;
 }
 
 blockquote cite {
-  font-family: "Josefin Sans", sans-serif;
+  font-family:"HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   text-transform: uppercase;
   font-size: 14px;
   font-weight: 600;
@@ -643,7 +643,7 @@ big {
 }
 
 .number-stroke {
-  font-family: "Titillium Web", sans-serif;
+  font-family: "HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-weight: 800;
   line-height: 1;
   white-space: nowrap;
@@ -672,7 +672,7 @@ big {
 
 .btn-details {
   position: relative;
-  font-family: "Titillium Web", sans-serif;
+  font-family: "HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 13px;
   font-weight: 600;
   color: #1a1a1a;
@@ -1175,7 +1175,7 @@ td {
   text-transform: uppercase;
   white-space: nowrap;
   vertical-align: middle;
-  font-family: "Titillium Web", sans-serif;
+  font-family: "HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-weight: 600;
   text-align: center;
   background: #1a1a1a;
@@ -1637,7 +1637,7 @@ a:active {
 }
 
 .main-navigation ul {
-  font-family: "Titillium Web", sans-serif;
+  font-family: "HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-weight: normal;
   font-size: 14px;
   list-style: none;
@@ -2088,7 +2088,7 @@ a:active {
   }
 
   .vertical-main-navigation ul {
-    font-family: "Titillium Web", sans-serif;
+    font-family: "HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
     font-weight: normal;
     font-size: 14px;
     margin: 0px 0px;
@@ -2386,7 +2386,7 @@ a:active {
   }
 
   .mobile_nav .mobile_mainmenu {
-    font-family: "Titillium Web", sans-serif;
+    font-family: "HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
     margin: 0;
     padding: 0;
   }
@@ -2504,7 +2504,7 @@ a:active {
   width: 100%;
   height: 500px;
   color: #fff;
-  font-family: "Titillium Web", sans-serif;
+  font-family: "HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-weight: 500;
   font-size: 14px;
   text-align: center;
@@ -2529,7 +2529,7 @@ a:active {
   content: "••";
   position: absolute;
   color: #fff;
-  font-family: "Josefin Sans", sans-serif;
+  font-family:"HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 14px;
   line-height: 1;
   letter-spacing: 4px;
@@ -2769,7 +2769,7 @@ a:active {
 }
 
 .post-box .post-cat a {
-  font-family: "Titillium Web", sans-serif;
+  font-family: "HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   text-transform: uppercase;
   font-size: 13px;
   font-weight: 600;
@@ -2789,7 +2789,7 @@ a:active {
 }
 
 .post-box .entry-meta {
-  font-family: "Josefin Sans", sans-serif;
+  font-family:"HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   text-transform: uppercase;
   font-size: 14px;
   margin-bottom: 8px;
@@ -2857,7 +2857,7 @@ a:active {
 .post-box .link-box a {
   font-size: 22px;
   font-weight: 400;
-  font-family: "Titillium Web", sans-serif;
+  font-family: "HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   color: #1a1a1a;
 }
 
@@ -2896,13 +2896,13 @@ a:active {
   font-size: 22px;
   font-weight: 400;
   line-height: 36px;
-  font-family: "Titillium Web", sans-serif;
+  font-family: "HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   color: #1a1a1a;
 }
 
 .post-box .quote-box .quote-text span {
   display: block;
-  font-family: "Josefin Sans", sans-serif;
+  font-family:"HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   margin-top: 6px;
   text-transform: uppercase;
   font-size: 14px;
@@ -2937,7 +2937,7 @@ a:active {
 
 .page-pagination li a,
 .page-pagination li span {
-  font-family: "Titillium Web", sans-serif;
+  font-family: "HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 16px;
   color: #bfbfbf;
   font-weight: 600;
@@ -3001,7 +3001,7 @@ a:active {
   color: #1a1a1a;
   background: #fff;
   font-size: 14px !important;
-  font-family: "Titillium Web", sans-serif;
+  font-family: "HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   text-transform: lowercase;
   font-weight: 400;
   padding: 8px 12px;
@@ -3031,7 +3031,7 @@ a:active {
   line-height: 30px;
   font-weight: 500;
   font-size: 14px;
-  font-family: "Titillium Web", sans-serif;
+  font-family: "HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
@@ -3146,7 +3146,7 @@ a:active {
 
 .drop-cap,
 .elementor-drop-cap {
-  font-family: "Titillium Web", sans-serif;
+  font-family: "HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   float: left;
   text-align: center;
   background: #fff;
@@ -3211,7 +3211,7 @@ a:active {
 }
 
 .post-nav span:not(.title-link) {
-  font-family: "Josefin Sans", sans-serif;
+  font-family:"HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   text-transform: uppercase;
   display: inline-block;
   font-size: 12px;
@@ -3410,7 +3410,7 @@ a:active {
 }
 
 .comments-area .comment-item .comment-meta .comment-time {
-  font-family: "Josefin Sans", sans-serif;
+  font-family:"HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   display: block;
   color: #9f9e9e;
   font-size: 14px;
@@ -3535,7 +3535,7 @@ a:active {
   color: #1a1a1a;
   background: #fff;
   font-size: 14px !important;
-  font-family: "Titillium Web", sans-serif;
+  font-family: "HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   text-transform: lowercase;
   font-weight: 400;
   padding: 8px 12px;
@@ -3552,7 +3552,7 @@ a:active {
 }
 
 .widget-area {
-  font-family: "Titillium Web", sans-serif;
+  font-family: "HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 
 .widget-area .widget {
@@ -3603,7 +3603,7 @@ a:active {
 }
 
 .widget-area .widget ul:not(.recent-news)>li .count {
-  font-family: "Josefin Sans", sans-serif;
+  font-family:"HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   position: absolute;
   right: 20px;
   top: 50%;
@@ -3692,7 +3692,7 @@ a:active {
 }
 
 .widget .recent-news .post-on {
-  font-family: "Josefin Sans", sans-serif;
+  font-family:"HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 12px;
   display: block;
   line-height: 1;
@@ -3760,7 +3760,7 @@ a:active {
 }
 
 .author-widget_wrapper .author-widget_text {
-  font-family: "Raleway", sans-serif;
+  font-family:"HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 14px;
   line-height: 28px;
   color: #a3a3a3;
@@ -4095,7 +4095,7 @@ object {
 }
 
 .ot-heading>span {
-  font-family: "Josefin Sans", sans-serif;
+  font-family:"HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 14px;
   font-weight: 600;
   color: #9f9e9e;
@@ -4210,7 +4210,7 @@ object {
 ## Video Popup
 --------------------------------------------------------------*/
 .video-popup span {
-  font-family: "Titillium Web", sans-serif;
+  font-family: "HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 13px;
   text-transform: uppercase;
   font-weight: 600;
@@ -4483,13 +4483,13 @@ object {
 ## Counter
 --------------------------------------------------------------*/
 .ot-counter {
-  font-family: "Titillium Web", sans-serif;
+  font-family: "HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   display: block;
   text-align: center;
 }
 
 .ot-counter span {
-  font-family: "Josefin Sans", sans-serif;
+  font-family:"HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-weight: 300;
   color: #c2c2c2;
   font-size: 42px;
@@ -4528,7 +4528,7 @@ object {
 
 .ot-countdown li span {
   font-size: 120px;
-  font-family: "Titillium Web", sans-serif;
+  font-family: "HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   display: block;
   margin-bottom: 13px;
   white-space: nowrap;
@@ -5067,7 +5067,7 @@ object {
   cursor: pointer;
   justify-content: space-between;
   overflow: hidden;
-  font-family: "Titillium Web", sans-serif;
+  font-family: "HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 20px;
   color: #1a1a1a;
   padding: 15px 0 20px;
@@ -5131,7 +5131,7 @@ object {
 }
 
 .ot-tabs .tab-link {
-  font-family: "Titillium Web", sans-serif;
+  font-family: "HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   min-width: 176px;
   margin-right: 20px;
   padding: 12px 0;
@@ -5211,7 +5211,7 @@ object {
   font-weight: 700;
   font-size: 14px;
   color: #1a1a1a;
-  font-family: "Titillium Web", sans-serif;
+  font-family: "HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-weight: 600;
 }
 
@@ -5278,7 +5278,7 @@ object {
   top: 50%;
   left: 0;
   text-align: center;
-  font-family: "Titillium Web", sans-serif;
+  font-family: "HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-weight: 300;
   font-size: 30px;
   margin-top: -15px;
@@ -6155,7 +6155,7 @@ object {
 }
 
 .team-wrap .m_extra {
-  font-family: "Josefin Sans", sans-serif;
+  font-family:"HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   text-transform: uppercase;
   font-size: 14px;
   position: absolute;
@@ -6256,7 +6256,7 @@ object {
 }
 
 .member-info {
-  font-family: "Titillium Web", sans-serif;
+  font-family: "HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   list-style: none;
   font-size: 18px;
   padding-left: 0;
@@ -6411,7 +6411,7 @@ object {
 
 .projects-grid .projects-box .portfolio-info .portfolio-cates {
   color: #9f9e9e;
-  font-family: "Josefin Sans", sans-serif;
+  font-family:"HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-weight: 500;
   font-size: 14px;
   text-transform: uppercase;
@@ -6460,7 +6460,7 @@ object {
 
 .projects-grid .projects-box img {
   width: 100%;
-  height: 450px;
+  height: 465px;
   display: block;
   transition: all 0.3s linear;
   -webkit-transition: all 0.3s linear;
@@ -7181,7 +7181,7 @@ body .elementor-widget:not(:last-child) {
 div.elementor-widget-heading .elementor-heading-title {
   color: #1a1a1a;
   font-weight: 400;
-  font-family: "Titillium Web", sans-serif;
+  font-family: "HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 
 .dark-scheme .elementor-widget-heading .elementor-heading-title {
@@ -7194,7 +7194,7 @@ div.elementor-widget-heading .elementor-heading-title {
 
 .elementor-default .elementor-widget-text-editor,
 .elementor-default .elementor-icon-list-text {
-  font-family: "Raleway", sans-serif;
+  font-family:"HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   color: #555555;
   transition: all 0.3s linear;
   -webkit-transition: all 0.3s linear;
@@ -7580,7 +7580,7 @@ div.elementor-widget-heading .elementor-heading-title {
   -moz-border-radius: 50%;
   border-radius: 50%;
   font-size: 11px;
-  font-family: "Titillium Web", sans-serif;
+  font-family: "HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 
 @media only screen and (max-width: 1024px) {
@@ -7918,7 +7918,7 @@ div.elementor-widget-heading .elementor-heading-title {
 
 .woocommerce-mini-cart li a:not(.remove) {
   display: inline;
-  font-family: "Titillium Web", sans-serif;
+  font-family: "HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 18px;
   color: #fff;
   font-weight: 500;
@@ -7927,7 +7927,7 @@ div.elementor-widget-heading .elementor-heading-title {
 
 .woocommerce-mini-cart li .quantity {
   color: #9f9e9e;
-  font-family: "Titillium Web", sans-serif;
+  font-family: "HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-weight: 600;
   font-size: 14px;
   display: block;
@@ -7938,7 +7938,7 @@ div.elementor-widget-heading .elementor-heading-title {
   color: #9f9e9e;
   font-weight: 400;
   font-size: 16px;
-  font-family: "Josefin Sans", sans-serif;
+  font-family:"HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 
 .woocommerce-mini-cart__total {
@@ -7953,7 +7953,7 @@ div.elementor-widget-heading .elementor-heading-title {
 
 .woocommerce-mini-cart__total strong {
   color: #fff;
-  font-family: "Titillium Web", sans-serif;
+  font-family: "HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-weight: 600;
   font-size: 22px;
 }
@@ -7964,7 +7964,7 @@ div.elementor-widget-heading .elementor-heading-title {
   line-height: 44px;
   color: #fff;
   font-weight: 400;
-  font-family: "Josefin Sans", sans-serif;
+  font-family:"HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 
 .woocommerce-mini-cart__buttons .button {
@@ -7973,7 +7973,7 @@ div.elementor-widget-heading .elementor-heading-title {
   border-radius: 0;
   font-weight: 600;
   letter-spacing: .5px;
-  font-family: "Titillium Web", sans-serif;
+  font-family: "HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   text-transform: uppercase;
   padding: 16px 30px;
   margin-right: 13px;
@@ -8147,7 +8147,7 @@ div.elementor-widget-heading .elementor-heading-title {
 
 .side-panel-cinfo li.icon-list-item,
 .side-panel-cinfo li.icon-list-item a {
-  font-family: "Raleway", sans-serif;
+  font-family:"HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   color: #555;
   transition: all 0.3s linear;
   -webkit-transition: all 0.3s linear;
@@ -8158,7 +8158,7 @@ div.elementor-widget-heading .elementor-heading-title {
 
 .side-panel-cinfo .icon-list-item,
 .side-panel-cinfo .icon-list-item a {
-  font-family: "Raleway", Sans-serif;
+  font-family:"HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   line-height: 18px;
 }
 
@@ -8204,7 +8204,7 @@ div.elementor-widget-heading .elementor-heading-title {
 section {
   position: relative;
   padding-top: 110px;
-  padding-bottom: 110px;
+  padding-bottom: 20px;
 }
 
 .space-medium {
@@ -8432,7 +8432,7 @@ section {
   color: #8F8F8F;
   font-size: 20px;
   font-weight: 400;
-  font-family: "Titillium Web", sans-serif;
+  font-family: "HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   line-height: 1;
   padding-bottom: 12px;
 }
@@ -8442,7 +8442,7 @@ section {
   margin-bottom: 15px;
   color: #1a1a1a;
   font-weight: 400;
-  font-family: "Titillium Web", sans-serif;
+  font-family: "HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 
 .process-classic p {
@@ -8682,9 +8682,9 @@ section {
 
 .clients-slide .img-item img,
 .clients-slide-medium .img-item img {
-  height: 50px;
+  height: 150px;
   width: auto;
-  opacity: .7;
+  /* opacity: .7; */
   filter: brightness(100%) contrast(0%) saturate(100%) blur(0) hue-rotate(0deg);
 }
 
@@ -8753,7 +8753,7 @@ section {
 
 .team-member-info h5 {
   color: #FFF;
-  font-family: "Josefin Sans", Sans-serif;
+  font-family:"HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 14px;
   text-transform: uppercase;
   letter-spacing: .5px;
@@ -9385,7 +9385,7 @@ ol.style-default li:last-child {
   color: #1a1a1a;
   font-weight: 400;
   line-height: 1;
-  font-family: "Raleway", Sans-serif;
+  font-family:"HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 
 .portfolio-detail-info p:last-child {
@@ -9414,7 +9414,7 @@ ol.style-default li:last-child {
   font-weight: 400;
   line-height: 24px;
   margin-bottom: 36px;
-  font-family: "Raleway", Sans-serif;
+  font-family:"HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 
 .portfolio-detail-info p:last-child {
@@ -9431,7 +9431,7 @@ ol.style-default li:last-child {
 
 .room-area h3 {
   color: #C2C2C2;
-  font-family: "Josefin Sans", Sans-serif;
+  font-family:"HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 42px;
   font-weight: 300;
   line-height: 1;
@@ -9459,7 +9459,7 @@ ol.style-default li:last-child {
   line-height: 26px;
   font-weight: 500;
   font-size: 12px;
-  font-family: "Titillium Web", sans-serif;
+  font-family: "HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
@@ -9510,19 +9510,19 @@ ol.style-default li:last-child {
   -webkit-text-stroke: 1px rgba(255, 255, 255, 0.3);
   color: transparent;
   text-transform: uppercase;
-  font-family: 'Titillium Web';
+  font-family: '"HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"';
 }
 
 .tp-caption-main,
 .tp-caption {
-  font-family: 'Titillium Web';
+  font-family: "HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 
 .tp-desc {
   z-index: 10;
   font-weight: 500;
   color: #fff;
-  font-family: 'Raleway';
+  font-family:"HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 
 .rev-btn .octf-btn:before,
@@ -9638,18 +9638,18 @@ ol.style-default li:last-child {
 
 /* Slider 2 */
 .tp-small {
-  font-family: "Josefin Sans";
+  font-family:"HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   text-transform: uppercase;
 }
 
 .caption-big-2,
 .tp-caption.title {
-  font-family: "Titillium Web";
+  font-family: "HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 
 .tp-desc-2 {
   text-transform: uppercase;
-  font-family: "Titillium Web";
+  font-family: "HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 
 .tp-caption .btn-details {
@@ -9717,7 +9717,7 @@ ol.style-default li:last-child {
   margin: 0;
   padding: 0;
   position: relative;
-  font-family: "Titillium Web", Sans-serif;
+  font-family: "HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 14.02px;
   text-transform: uppercase;
   margin-bottom: 40px;
@@ -9745,7 +9745,7 @@ ol.style-default li:last-child {
 .banner-desc-1 ul li span {
   color: #fff;
   font-weight: 400;
-  font-family: "Raleway", sans-serif;
+  font-family:"HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 
 .banner-desc-1 ul li:hover span {
@@ -9763,7 +9763,7 @@ ol.style-default li:last-child {
 
 .story-text {
   color: #FFF;
-  font-family: "Titillium Web", Sans-serif;
+  font-family: "HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 30px;
   font-weight: 300;
   line-height: 48px;
@@ -9792,14 +9792,14 @@ ol.style-default li:last-child {
 
 .story-author .story-title {
   color: #FFF;
-  font-family: "Titillium Web", Sans-serif;
+  font-family: "HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-weight: 400;
   margin-bottom: 6px;
 }
 
 .story-author .story-description {
   color: #D0CFCF;
-  font-family: "Raleway", Sans-serif;
+  font-family:"HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 14px;
   margin-bottom: 0;
   text-transform: uppercase;
@@ -9858,13 +9858,13 @@ ol.style-default li:last-child {
   font-size: 16px;
   margin-bottom: 0;
   line-height: 28px;
-  font-family: "Raleway", Sans-serif;
+  font-family:"HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-weight: 400;
 }
 
 .top-info p {
   color: #C4C4C4;
-  font-family: "Titillium Web", sans-serif;
+  font-family: "HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-weight: 400;
   margin-bottom: 0;
 }
@@ -10001,7 +10001,7 @@ ol.style-default li:last-child {
 
 .cta-2 h2 {
   color: #FFF;
-  font-family: "Titillium Web", Sans-serif;
+  font-family: "HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 100px;
   font-weight: 200;
   margin-bottom: 15px;
@@ -10166,7 +10166,7 @@ ol.style-default li:last-child {
 }
 
 .banner-4 h2 {
-  font-family: "Titillium Web", Sans-serif;
+  font-family: "HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 72px;
   font-weight: 300;
   line-height: 80px;
@@ -10193,7 +10193,7 @@ ol.style-default li:last-child {
   position: relative;
   display: block;
   color: #1a1a1a;
-  font-family: "Titillium Web", sans-serif;
+  font-family: "HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 14.02px;
   line-height: 18.03px;
   text-transform: uppercase;
@@ -10244,7 +10244,7 @@ ol.style-default li:last-child {
   color: #989898;
   font-size: 18px;
   font-weight: 600;
-  font-family: "Titillium Web", sans-serif;
+  font-family: "HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   line-height: 21px;
   position: relative;
   padding-left: 80px;
@@ -10421,7 +10421,7 @@ ol.style-default li:last-child {
 }
 
 .cta-bg-img h2 {
-  font-family: "Titillium Web", Sans-serif;
+  font-family: "HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 100px;
   font-weight: 200;
   line-height: 1;
@@ -10454,7 +10454,7 @@ ol.style-default li:last-child {
   line-height: 1;
   font-weight: 200;
   text-transform: uppercase;
-  font-family: "Titillium Web", sans-serif;
+  font-family: "HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 
 .de-video-content .octf-btn {
@@ -10462,7 +10462,7 @@ ol.style-default li:last-child {
   border: 2px solid #fff;
   padding: 15px 30px;
   line-height: 1;
-  font-family: "Titillium Web", Sans-serif;
+  font-family: "HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 13px;
   font-weight: 600;
 }
@@ -10635,7 +10635,7 @@ ol.style-default li:last-child {
 
 .ot-testimonials.s-dark .testi-item .ttext:before {
   position: absolute;
-  font-family: "Titillium Web", sans-serif;
+  font-family: "HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 200px;
   color: #fff;
   top: 23px;
@@ -10697,7 +10697,7 @@ ol.style-default li:last-child {
 }
 
 .footer-side-nav .footer-list-item .list-item-text {
-  font-family: "Raleway", Sans-serif;
+  font-family:"HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 14px;
   line-height: 18px;
   padding-left: 10px;
@@ -10724,7 +10724,7 @@ ol.style-default li:last-child {
 
 .hero-content h2 {
   color: #FFFFFF;
-  font-family: "Titillium Web", Sans-serif;
+  font-family: "HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 90px;
   font-weight: 200;
   line-height: 100px;
@@ -10735,7 +10735,7 @@ ol.style-default li:last-child {
   position: absolute;
   width: 100%;
   text-align: center;
-  font-family: "Titillium Web", Sans-serif;
+  font-family: "HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 13px;
   font-weight: 600;
   text-transform: uppercase;
@@ -10756,7 +10756,7 @@ ol.style-default li:last-child {
   position: relative;
   display: block;
   color: #fff;
-  font-family: "Titillium Web", sans-serif;
+  font-family: "HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 14.02px;
   line-height: 18.03px;
   text-transform: uppercase;
@@ -11686,7 +11686,7 @@ ol.style-default li:last-child {
   background: #fff;
   color: #1a1a1a;
   font-size: 13px;
-  font-family: "Titillium Web", sans-serif;
+  font-family: "HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-weight: 600;
   text-transform: uppercase;
 }
@@ -11885,7 +11885,7 @@ ol.style-default li:last-child {
 
 .widget-footer a {
   color: #A3A3A3;
-  font-family: "Raleway", Sans-serif;
+  font-family:"HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 
 .widget-footer li {
@@ -12042,7 +12042,7 @@ ol.style-default li:last-child {
 
 .footer-bottom li a {
   color: #7B7B7B;
-  font-family: "Raleway", Sans-serif;
+  font-family:"HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 14px;
   line-height: 26px;
 }
@@ -12095,14 +12095,14 @@ ol.style-default li:last-child {
 
 #ajax-form label {
   display: block;
-  font-family: 'Raleway', sans-serif;
+  font-family:"HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 14px;
   line-height: 30px;
   margin-bottom: 0;
 }
 
 .error {
-  font-family: 'Raleway', sans-serif;
+  font-family: "HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 14px;
   line-height: 30px;
   letter-spacing: 1px;
@@ -12113,7 +12113,7 @@ ol.style-default li:last-child {
 #ajaxsuccess {
   color: #4BD48B;
   border: 1px solid #4BD48B;
-  font-family: 'Raleway', sans-serif;
+  font-family: "HK Grotesk", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   line-height: 60px;
   height: 60px;
   display: none;

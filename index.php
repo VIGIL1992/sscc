@@ -8,7 +8,7 @@
     <title>SSCC</title>
     <link rel="shortcut icon" type="image/x-icon" href="images/bg/SSCC.png" />
     <?php
-        include 'includes/header.php';
+    include 'includes/header.php';
     ?>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
@@ -17,7 +17,7 @@
     <div id="page" class="site">
 
         <?php
-            include 'includes/navbar.php';
+        include 'includes/navbar3.php';
         ?>
 
         <div id="content" class="site-content">
@@ -65,70 +65,70 @@
                                             data-frames='[{"delay":500,"split":"chars","splitdelay":0.1,"speed":500,"frame":"0","from":"x:[105%];z:0;rX:45deg;rY:0deg;rZ:90deg;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"power4.inOut"},{"delay":"wait","speed":1000,"frame":"999","to":"x:50px;z:0;rX:0deg;rY:0deg;rZ:0deg;sX:1;sY:1;skX:0;skY:0;","ease":"power3.inOut"}]'
 
                                             data-textAlign="['center','center','center','center']">
-                                          Build
+                                            Build
                                         </div>
 
 
-                                         <!-- LAYER 4  Bold Title-->
-                                <div class="tp-caption tp-resizeme tp-caption-main"
-                                    id="slide-71-layer-2"
-                                    data-x="['center','center','center','center']" data-hoffset="['2','0','0','0']"
-                                    data-y="['center','center','center','center']" data-voffset="['-56','-63','-60','-65']"
-                                    data-fontsize="['93','72','55','40']"
-                                    data-lineheight="['83','70','51','55']"
-                                    data-color="['#fff','#fff','#fff','#fff']"
-                                    data-fontweight="['200','200','200','200']"
-                                    data-whitespace="nowrap"
+                                        <!-- LAYER 4  Bold Title-->
+                                        <div class="tp-caption tp-resizeme tp-caption-main"
+                                            id="slide-71-layer-2"
+                                            data-x="['center','center','center','center']" data-hoffset="['2','0','0','0']"
+                                            data-y="['center','center','center','center']" data-voffset="['-56','-63','-60','-65']"
+                                            data-fontsize="['93','72','55','40']"
+                                            data-lineheight="['83','70','51','55']"
+                                            data-color="['#fff','#fff','#fff','#fff']"
+                                            data-fontweight="['200','200','200','200']"
+                                            data-whitespace="nowrap"
 
-                                    data-type="text"
-                                    data-responsive_offset="on"
+                                            data-type="text"
+                                            data-responsive_offset="on"
 
-                                    data-frames='[{"delay":900,"speed":1000,"frame":"0","from":"x:50px;opacity:0;","to":"o:1;","ease":"power3.inOut"},{"delay":"wait","speed":1000,"frame":"999","to":"x:50px;opacity:0;","ease":"power3.inOut"}]'
+                                            data-frames='[{"delay":900,"speed":1000,"frame":"0","from":"x:50px;opacity:0;","to":"o:1;","ease":"power3.inOut"},{"delay":"wait","speed":1000,"frame":"999","to":"x:50px;opacity:0;","ease":"power3.inOut"}]'
 
-                                    data-textAlign="['left','left','left','left']">Build, Transform, Innovate
-                                </div>
+                                            data-textAlign="['left','left','left','left']">Build, Transform, Innovate
+                                        </div>
 
-                                <!-- LAYER 5  Paragraph-->
-                                <div class="tp-caption tp-resizeme tp-desc"
-                                    id="slide-71-layer-3"
-                                    data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
-                                    data-y="['center','center','center','center']" data-voffset="['54','43','31','15']"
-                                    data-fontsize="['19','18','17','16']"
-                                    data-lineheight="['33','27','28','24']"
-                                    data-width="['818','630','500','417']"
-                                    data-weight="['500','500','500','500']"
-                                    data-color="['#fff','#fff','#fff','#fff']"
-                                    data-whitespace="normal"
+                                        <!-- LAYER 5  Paragraph-->
+                                        <div class="tp-caption tp-resizeme tp-desc"
+                                            id="slide-71-layer-3"
+                                            data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                                            data-y="['center','center','center','center']" data-voffset="['54','43','31','15']"
+                                            data-fontsize="['19','18','17','16']"
+                                            data-lineheight="['33','27','28','24']"
+                                            data-width="['818','630','500','417']"
+                                            data-weight="['500','500','500','500']"
+                                            data-color="['#fff','#fff','#fff','#fff']"
+                                            data-whitespace="normal"
 
-                                    data-type="text"
-                                    data-responsive_offset="on"
+                                            data-type="text"
+                                            data-responsive_offset="on"
 
-                                    data-frames='[{"delay":1200,"speed":1000,"frame":"0","from":"x:50px;opacity:0;","to":"o:1;","ease":"power3.inOut"},{"delay":"wait","speed":1000,"frame":"999","to":"x:50px;opacity:0;","ease":"power3.inOut"}]'
+                                            data-frames='[{"delay":1200,"speed":1000,"frame":"0","from":"x:50px;opacity:0;","to":"o:1;","ease":"power3.inOut"},{"delay":"wait","speed":1000,"frame":"999","to":"x:50px;opacity:0;","ease":"power3.inOut"}]'
 
-                                    data-textAlign="['center','center','center','center']">Value Innovation and quality results make us the right choice for your construction projects.
+                                            data-textAlign="['center','center','center','center']">Value Innovation and quality results make us the right choice for your construction projects.
 
-                                </div>
+                                        </div>
 
-                                <!-- LAYER 6  Read More-->
-                                <div class="tp-caption rev-btn"
-                                    id="slide-71-layer-4"
-                                    data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
-                                    data-y="['center','center','center','center']" data-voffset="['170','140','119','110']"
-                                    data-fontsize="['13','18','17','0']"
-                                    data-lineheight="['25','18','16','16']"
-                                    data-width="none"
-                                    data-height="none"
-                                    data-whitespace="nowrap"
-                                    data-responsive_offset="on"
+                                        <!-- LAYER 6  Read More-->
+                                        <div class="tp-caption rev-btn"
+                                            id="slide-71-layer-4"
+                                            data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                                            data-y="['center','center','center','center']" data-voffset="['170','140','119','110']"
+                                            data-fontsize="['13','18','17','0']"
+                                            data-lineheight="['25','18','16','16']"
+                                            data-width="none"
+                                            data-height="none"
+                                            data-whitespace="nowrap"
+                                            data-responsive_offset="on"
 
-                                    data-frames='[{"delay":1500,"speed":1000,"frame":"0","from":"x:50px;opacity:0;","to":"o:1;","ease":"power3.inOut"},{"delay":"wait","speed":1000,"frame":"999","to":"x:50px;opacity:0;","ease":"power3.inOut"}]'
+                                            data-frames='[{"delay":1500,"speed":1000,"frame":"0","from":"x:50px;opacity:0;","to":"o:1;","ease":"power3.inOut"},{"delay":"wait","speed":1000,"frame":"999","to":"x:50px;opacity:0;","ease":"power3.inOut"}]'
 
-                                    data-textAlign="['center','center','center','center']"
-                                    data-paddingtop="[0,0,0,0]"
-                                    data-paddingright="[0,0,0,0]"
-                                    data-paddingbottom="[0,0,0,0]"
-                                    data-paddingleft="[0,0,0,0]"><a href="portfolio.php" class="octf-btn octf-btn-primary btn-slider btn-large">View Projects</a>
-                                </div>
+                                            data-textAlign="['center','center','center','center']"
+                                            data-paddingtop="[0,0,0,0]"
+                                            data-paddingright="[0,0,0,0]"
+                                            data-paddingbottom="[0,0,0,0]"
+                                            data-paddingleft="[0,0,0,0]"><a href="portfolio.php" class="octf-btn octf-btn-primary btn-slider btn-large">View Projects</a>
+                                        </div>
 
                                     </div>
                                 </section>
@@ -266,26 +266,26 @@
                                 <img src="images/banner/banner2.jpg" data-bgcolor='#ffffff' style='' alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-bgparallax="off" data-no-retina>
 
 
-                                <!-- LAYER 3 Thin text title -->
                                 <div class="tp-caption tp-resizeme tp-caption-big"
                                     id="slide-72-layer-1"
                                     data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
-                                    data-y="['center','center','center','center']" data-voffset="['-50','-50','-40','-20']"
-                                    data-fontsize="['140','110','70','50']"
-                                    data-lineheight="['110','100','80','60']"
-                                    data-letterspacing="['40','35','30','20']"
+                                    data-y="['center','center','center','center']" data-voffset="['-50','-50','-40','-30']"
+                                    data-fontsize="['140','110','70','37']"
+                                    data-lineheight="['160','130','90','70']"
+                                    data-letterspacing="['60','50','40','30']"
                                     data-fontweight="['900','900','900','900']"
                                     data-color="['transparent','transparent','transparent','transparent']"
-                                    data-whitespace="['nowrap','nowrap','nowrap','normal']"
+                                    data-whitespace="nowrap"
 
                                     data-type="text"
                                     data-responsive_offset="on"
-                                    data-visibility="['on','on','on','off']"
+
+                                    **data-visibility="['on','on','on','off']" **
 
                                     data-frames='[{"delay":500,"split":"chars","splitdelay":0.1,"speed":500,"frame":"0","from":"x:[105%];z:0;rX:45deg;rY:0deg;rZ:90deg;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"power4.inOut"},{"delay":"wait","speed":1000,"frame":"999","to":"x:50px;z:0;rX:0deg;rY:0deg;rZ:0deg;sX:1;sY:1;skX:0;skY:0;","ease":"power3.inOut"}]'
 
                                     data-textAlign="['center','center','center','center']">
-                                    Innovate
+                                    Innovative
                                 </div>
 
 
@@ -305,7 +305,7 @@
 
                                     data-frames='[{"delay":900,"speed":1000,"frame":"0","from":"x:50px;opacity:0;","to":"o:1;","ease":"power3.inOut"},{"delay":"wait","speed":1000,"frame":"999","to":"x:50px;opacity:0;","ease":"power3.inOut"}]'
 
-                                    data-textAlign="['left','left','left','left']">Build, Transform, Innovate
+                                    data-textAlign="['left','left','left','left']">Build, Transform, Innovative
                                 </div>
 
                                 <!-- LAYER 5  Paragraph-->
@@ -371,14 +371,14 @@
                         <div class="col-lg-6 col-md-12">
                             <div class="story-text">
                                 <p>
-                                    “We are committed to deliver projects on time and to budget, ensuring client satisfaction 
+                                    “We are committed to deliver projects on time and to budget, ensuring client satisfaction
                                     with utmost quality and best HSE records."
                                 </p>
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-12">
                             <div class="story-author">
-                                <img src="images/md.png" class="" alt="">
+                                <img src="images/md1.png" class="" alt="">
                                 <div class="story-content">
                                     <h5 class="story-title">JOSEPH ZAAROUR</h5>
                                     <p class="story-description">MANAGING DIRECTOR</p>
@@ -408,7 +408,12 @@
                                     <span>[ Who we are ]</span>
                                     <h2 class="main-heading">Building the future and Restoring the past</h2>
                                 </div>
-                                <p>Our Vision is to become a leading construction firm, while delivering projects that consistently exceed international standards and provide exceptional customer satisfaction.
+                                <p class="pt-2"> 
+                                    We build with more than just concrete and steel; we build long-standing relationships. SSCC Group commits 
+                                    to a partnership approach for all projects that it manages. Centered on the idea of making our community 
+                                    better, from Pre-erection work; new construction and repair, alteration, restoration and maintenance work 
+                                    on residential buildings, non-residential buildings or civil engineering works; SSCC assists our clients 
+                                    with their projects from concept to completion and proudly offers the following construction-based solutions:
                                 </p>
 
                                 <div class="ot-button">
@@ -451,7 +456,7 @@
                     </div>
                 </div>
             </div> -->
-            
+
             <!-- <div>
                 <div class="container-fluid">
                     <div class="row justify-content-center">
@@ -539,7 +544,7 @@
                                         </a>
                                     </div>
                                 </div>
-                                
+
                             </div>
                         </div>
 
@@ -548,18 +553,46 @@
             </div>
 
             <script>
-                document.addEventListener("DOMContentLoaded", function () {
-                    function toggleMenuByTarget(target) {
+                document.addEventListener("DOMContentLoaded", function() {
+                    // Function to handle navbar menu toggles
+                    function toggleNavbarMenu(target) {
                         const menuBtn = document.getElementById(`btn-${target}`);
                         if (!menuBtn) return;
 
                         const originalMenu = menuBtn.nextElementSibling;
                         if (!originalMenu || !originalMenu.classList.contains('sub-menu')) return;
 
-                        // Remove all previously shown submenus below sections
+                        // Toggle the navbar menu
+                        if (originalMenu.style.display === 'block') {
+                            originalMenu.style.display = 'none';
+                            menuBtn.querySelector('.i-plus')?.classList.remove('i-minus');
+                        } else {
+                            // Close other navbar menus first
+                            document.querySelectorAll('.sub-menu').forEach(menu => {
+                                if (menu !== originalMenu) {
+                                    menu.style.display = 'none';
+                                    const btn = menu.previousElementSibling;
+                                    btn?.querySelector('.i-plus')?.classList.remove('i-minus');
+                                }
+                            });
+
+                            originalMenu.style.display = 'block';
+                            menuBtn.querySelector('.i-plus')?.classList.add('i-minus');
+                        }
+                    }
+
+                    // Function to handle category item clicks (create popups)
+                    function toggleCategoryPopup(target) {
+                        const menuBtn = document.getElementById(`btn-${target}`);
+                        if (!menuBtn) return;
+
+                        const originalMenu = menuBtn.nextElementSibling;
+                        if (!originalMenu || !originalMenu.classList.contains('sub-menu')) return;
+
+                        // Remove any existing popups
                         document.querySelectorAll('.cloned-submenu').forEach(clone => clone.remove());
 
-                        // Clone the submenu
+                        // Clone the submenu for the popup
                         const clonedMenu = originalMenu.cloneNode(true);
                         clonedMenu.classList.add('cloned-submenu');
                         clonedMenu.style.display = 'block';
@@ -573,69 +606,46 @@
                             targetSection.insertAdjacentElement('afterend', clonedMenu);
 
                             // Re-attach close button event for cloned submenu
-                            clonedMenu.querySelectorAll('.submenu-close').forEach(closeBtn => {
-                                closeBtn.addEventListener('click', function (e) {
-                                    e.stopPropagation();
-                                    clonedMenu.remove();
-                                });
+                            clonedMenu.querySelector('.submenu-close')?.addEventListener('click', function(e) {
+                                e.stopPropagation();
+                                clonedMenu.remove();
                             });
                         }
                     }
 
-                    // Handle cate-item click
+                    // Handle cate-item click (for popups)
                     document.querySelectorAll('.cate-item[data-target]').forEach(item => {
                         const target = item.getAttribute('data-target');
                         item.addEventListener('click', (e) => {
                             e.preventDefault();
-                            toggleMenuByTarget(target);
+                            toggleCategoryPopup(target);
                         });
                         item.querySelectorAll('a').forEach(link => {
                             link.addEventListener('click', e => e.preventDefault());
                         });
                     });
 
-                    // Handle navbar plus-btn click
+                    // Handle navbar plus-btn click (for navbar menus)
                     document.querySelectorAll('.plus-btn').forEach(btn => {
-                        btn.addEventListener('click', function (e) {
+                        btn.addEventListener('click', function(e) {
                             e.preventDefault();
                             const id = this.id.replace('btn-', '');
-                            toggleMenuByTarget(id);
+                            toggleNavbarMenu(id);
                         });
                     });
 
-                    // Handle close icon
-                    clonedMenu.querySelectorAll('.submenu-close').forEach(closeBtn => {
-                        closeBtn.addEventListener('click', function (e) {
-                            e.stopPropagation();
-                            const submenu = this.closest('.cloned-submenu');
-                            if (submenu) {
-                                submenu.remove();
-                            }
-                        });
-                    });
-
-
-                    document.addEventListener('click', function (e) {
-                        e.stopPropagation(); // 🛑 Prevent event from triggering other click events
-                        const popup = document.querySelector('.cloned-submenu');
-                        
-                        if (popup && !popup.contains(e.target) && !e.target.closest('.cate-item')) {
-                            popup.remove();
-                            // Also remove "i-minus" class if any plus button is toggled
-                            document.querySelectorAll('.plus-btn .i-plus').forEach(icon => {
-                                icon.classList.remove('i-minus');
+                    // Close popups when clicking outside
+                    document.addEventListener('click', function(e) {
+                        if (!e.target.closest('.cate-item') && !e.target.closest('.cloned-submenu')) {
+                            document.querySelectorAll('.cloned-submenu').forEach(popup => {
+                                popup.remove();
                             });
                         }
                     });
-
-                    
                 });
-
-
             </script>
 
             <style>
-                
                 /* Close button styling */
                 .submenu-close {
                     position: absolute;
@@ -643,7 +653,7 @@
                     right: 15px;
                     cursor: pointer;
                     z-index: 1001;
-                    background: rgba(0,0,0,0.1);
+                    background: rgba(0, 0, 0, 0.1);
                     width: 30px;
                     height: 30px;
                     border-radius: 50%;
@@ -654,7 +664,7 @@
                 }
 
                 .submenu-close:hover {
-                    background: rgba(0,0,0,0.2);
+                    background: rgba(0, 0, 0, 0.2);
                 }
 
                 .close-icon {
@@ -664,7 +674,7 @@
                     position: relative;
                 }
 
-                .close-icon:before, 
+                .close-icon:before,
                 .close-icon:after {
                     content: '';
                     position: absolute;
@@ -702,15 +712,15 @@
                     position: relative;
                     z-index: 100;
                     margin-top: 10px;
-                    max-height: 500px; /* Adjust as needed */
+                    max-height: 500px;
+                    /* Adjust as needed */
                     overflow: auto;
                     border-radius: 10px;
                 }
+
                 .cloned-submenu .submenu-box {
                     padding: 20px;
                 }
-
-
             </style>
 
 
@@ -740,10 +750,10 @@
                             <div class="icon-box icon-box--bg-img icon-box--icon-top icon-box--is-line-hover icon-bg-1 text-center minheight560">
                                 <div class="icon-main"><img src="images/iconbox1.2.png" alt=""></div>
                                 <div class="content-box">
-                                    <h5><a href="services_details.php">Design & Planning</a></h5>
+                                    <h5><a href="services_details.php">Design and Build</a></h5>
                                     <p>
-                                        We provide both Design and Construction services under one contract, ensuring a streamlined and 
-                                        efficient project execution, eliminating the need for multiple contractors, reducing project 
+                                        We provide both Design and Construction services under one contract, ensuring a streamlined and
+                                        efficient project execution, eliminating the need for multiple contractors, reducing project
                                         delays and cost overruns.
                                     </p>
                                 </div>
@@ -758,7 +768,7 @@
                                 <div class="content-box">
                                     <h5><a href="services_details.php">Constructions</a></h5>
                                     <p>
-                                        We have a proven track record of delivering various Civil and Steel projects on time and within budget.                                    
+                                        We have a proven track record of delivering various Civil and Steel projects on time and within budget.
                                     </p>
                                 </div>
                                 <div class="link-box">
@@ -771,14 +781,16 @@
                                 <div class="icon-main"><img src="images/iconbox3.png" alt=""></div>
                                 <div class="content-box">
                                     <h5><a href="services_details.php">Remodels and Renovations</a></h5>
-                                    <p>We create and produce our product design lines.</p>
+                                    <p>
+                                        We offer innovative space renovations for commercial and industrial workplaces transforming them in to a more efficient, smart and functional environment.
+                                    </p>
                                 </div>
                                 <div class="link-box">
                                     <a href="services_details.php" class="btn-details">READ MORE</a>
                                 </div>
                             </div>
                         </div>
-                        <div class="space-120"></div>
+                        <!-- <div class="space-120"></div> -->
                     </div>
                     <!-- Counter Start -->
                     <!-- <div class="row">
@@ -826,17 +838,17 @@
                     <!-- Counter End -->
                 </div>
             </section>
-            
 
 
 
 
-            <section class="p-0" id="portfolio">
+
+            <!-- <section class="p-0" id="portfolio">
                 <div class="container container-big">
                     <div class="row">
                         <div class="col-lg-12 text-center theratio-align-center">
                             <div class="project-filter-wrapper">
-                                <div class="projects-grid pf_4_cols style-2 p-info-s2 img-scale w-auto projects-metro">
+                                <div class="projects-grid pf_4_cols style-2 p-info-s2 img-scale w-auto no-gaps mx-0">
                                     <div class="grid-sizer"></div>
                                     <div class="project-item category-19 thumb2x">
                                         <div class="projects-box">
@@ -968,12 +980,139 @@
                         </div>
                     </div>
                 </div>
+            </section> -->
+
+
+            <section class="p-0">
+                <div class="projects-grid pf_4_cols style-2 p-info-s2 img-scale w-auto no-gaps mx-0">
+                    <div class="grid-sizer"></div>
+                    <div class="project-item category-19 thumb2x">
+                        <div class="projects-box">
+                            <div class="projects-thumbnail">
+                                <a href="portfolio.php">
+                                    <img src="images/project/project7.jpg" alt="" style="min-height: 465px;">
+                                </a>
+                                <div class="overlay">
+                                    <h5>Project1</h5>
+                                    <i class="ot-flaticon-add"></i>
+                                </div>
+                            </div>
+                            <div class="portfolio-info">
+                                <div class="portfolio-info-inner">
+                                    <h5><a class="title-link" href="portfolio.php">Project1</a></h5>
+                                    <p class="portfolio-cates"><a href="#">Ongoing</a></p>
+                                </div>
+                                <a class="overlay" href="portfolio.php"></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project-item category-14 ">
+                        <div class="projects-box">
+                            <div class="projects-thumbnail">
+                                <a href="portfolio.php">
+                                    <img src="images/project/project1.jpg" alt="">
+                                </a>
+                                <div class="overlay">
+                                    <h5>Project2</h5>
+                                    <i class="ot-flaticon-add"></i>
+                                </div>
+                            </div>
+                            <div class="portfolio-info">
+                                <div class="portfolio-info-inner">
+                                    <h5><a class="title-link" href="portfolio-detail-slider.html">Project2</a></h5>
+                                    <p class="portfolio-cates">
+                                        <a href="#">Completed</a>
+
+                                    </p>
+                                </div>
+                                <a class="overlay" href="portfolio.php"></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project-item category-15 ">
+                        <div class="projects-box">
+                            <div class="projects-thumbnail">
+                                <a href="portfolio.php">
+
+
+                                    <img src="images/project/project17.jpg" alt="">
+                                </a>
+                                <div class="overlay">
+                                    <h5>Project3</h5>
+                                    <i class="ot-flaticon-add"></i>
+                                </div>
+                            </div>
+                            <div class="portfolio-info">
+                                <div class="portfolio-info-inner">
+                                    <h5><a class="title-link" href="portfolio.php">Project3</a></h5>
+                                    <p class="portfolio-cates"><a href="#">Ongoing</a></p>
+                                </div>
+                                <a class="overlay" href="portfolio.php"></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project-item category-20 ">
+                        <div class="projects-box">
+                            <div class="projects-thumbnail">
+                                <a href="portfolio.php">
+                                    <img src="images/project/project3.jpg" alt="">
+                                </a>
+                                <div class="overlay">
+                                    <h5>Project4</h5>
+                                    <i class="ot-flaticon-add"></i>
+                                </div>
+                            </div>
+                            <div class="portfolio-info">
+                                <div class="portfolio-info-inner">
+                                    <h5><a class="title-link" href="portfolio.php">Project4</a></h5>
+                                    <p class="portfolio-cates"><a href="#">Completed</a></p>
+                                </div>
+                                <a class="overlay" href="portfolio.php"></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project-item category-19 ">
+                        <div class="projects-box">
+                            <div class="projects-thumbnail">
+                                <a href="portfolio.php">
+                                    <img src="images/banner/project11.jpg" alt="">
+                                </a>
+                                <div class="overlay">
+                                    <h5>Project5</h5>
+                                    <i class="ot-flaticon-add"></i>
+                                </div>
+                            </div>
+                            <div class="portfolio-info">
+                                <div class="portfolio-info-inner">
+                                    <h5><a class="title-link" href="portfolio.php">Project5</a></h5>
+                                    <p class="portfolio-cates"><a href="#">Ongoing</a></p>
+                                </div>
+                                <a class="overlay" href="portfolio-small.html"></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project-item category-14 thumb2x">
+                        <div class="projects-box">
+                            <div class="projects-thumbnail">
+                                <a href="portfolio-big.html">
+                                    <img src="images/project/project18.jpg" alt="" style="min-height: 465px;">
+                                </a>
+                                <div class="overlay">
+                                    <h5>Project6</h5>
+                                    <i class="ot-flaticon-add"></i>
+                                </div>
+                            </div>
+                            <div class="portfolio-info">
+                                <div class="portfolio-info-inner">
+                                    <h5><a class="title-link" href="portfolio.php">Project6</a></h5>
+                                    <p class="portfolio-cates"><a href="#">Completed</a></p>
+                                </div>
+                                <a class="overlay" href="portfolio.php"></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </section>
-
-
-
-
-
 
             <!-- <section class="about-5">
                 <div class="container">
@@ -1481,6 +1620,207 @@
                     </div>
                 </div>
             </section> -->
+
+
+
+
+
+            <!-- <div class="client-1 bg-light-1">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-md-12 text-center theratio-align-center">
+                            <div class="ot-heading is-dots">
+                                <span>[ OUR CLIENTS ]</span>
+                                <h2 class="main-heading">Clients</h2>
+                            </div>
+                            <div class="space-50"></div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="clients-slide owl-theme owl-carousel">
+                                <div class="img-item">
+                                    <figure><img src="images/clients/client1.jpeg" alt=""></figure>
+                                </div>
+                                <div class="img-item">
+                                    <figure><img src="images/clients/client2.jpeg" alt=""></figure>
+                                </div>
+                                <div class="img-item">
+                                    <figure><img src="images/clients/client3.jpeg" alt=""></figure>
+                                </div>
+                                <div class="img-item">
+                                    <figure><img src="images/clients/client4.jpeg" alt=""></figure>
+                                </div>
+                                <div class="img-item">
+                                    <figure><img src="images/clients/client5.jpeg" alt=""></figure>
+                                </div>
+                                <div class="img-item">
+                                    <figure><img src="images/clients/client6.jpeg" alt=""></figure>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div> -->
+
+
+
+
+
+            <style>
+                .sponsors-section {
+                    padding-top: 110px;
+                    text-align: center;
+                    /* padding: 40px 20px; */
+                }
+
+                .sponsors-section h2 {
+                    font-size: 2em;
+                    margin-bottom: 30px;
+                    color: #333;
+                }
+
+                .sponsors-grid {
+                    display: grid;
+                    grid-template-columns: repeat(6, 1fr);
+                    /* default: 6 per row */
+                    gap: 10px;
+                    /* ✅ fixed unit */
+                    max-width: 1200px;
+                    margin: 0 auto;
+                }
+
+
+                .sponsor-logo {
+                    padding: 0;
+                    margin: 0;
+                    transition: transform 0.3s;
+                    cursor: pointer;
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                }
+
+                .sponsor-logo:hover {
+                    transform: scale(1.05);
+                }
+
+                .sponsor-logo img {
+                    max-width: 100%;
+                    max-height: 170px;
+                    object-fit: contain;
+                    display: block;
+                    margin: 0 auto;
+                    filter: grayscale(100%) brightness(80%);
+                    transition: filter 0.3s ease;
+                }
+
+                .sponsor-logo:hover img {
+                    filter: none;
+                }
+
+                /* Large screens (default is 6 columns already) */
+                @media (max-width: 1200px) {
+                    .sponsors-grid {
+                        gap: 10px;
+                        grid-template-columns: repeat(5, 1fr);
+                    }
+                }
+
+                /* Medium screens (like tablets) */
+                @media (max-width: 992px) {
+                    .sponsors-grid {
+                        grid-template-columns: repeat(4, 1fr);
+                        gap: 10px;
+                    }
+
+                    .sponsor-logo img {
+                        max-height: 120px;
+                    }
+                }
+
+                /* Tablets and larger phones */
+                @media (max-width: 768px) {
+                    .sponsors-grid {
+                        grid-template-columns: repeat(3, 1fr);
+                        gap: 10px;
+                    }
+
+                    .sponsor-logo {
+                        padding: 5px;
+                    }
+
+                    .sponsor-logo img {
+                        max-height: 90px;
+                    }
+                }
+
+                /* Small phones */
+                /* Small phones */
+                @media (max-width: 480px) {
+                    .sponsors-section h2 {
+                        font-size: 1.5em;
+                    }
+
+                    .sponsors-grid {
+                        grid-template-columns: repeat(3, 1fr);
+                        /* 3 sponsors per row */
+                        gap: 10px;
+                    }
+
+                    .sponsor-logo img {
+                        max-height: 80px;
+                    }
+                }
+
+                /* Extra small phones */
+                @media (max-width: 360px) {
+                    .sponsors-grid {
+                        grid-template-columns: repeat(3, 1fr);
+                        /* Keep 3 per row here too */
+                    }
+
+                    .sponsor-logo img {
+                        max-height: 70px;
+                    }
+                }
+            </style>
+
+
+
+
+            <section class="sponsors-section">
+                <div class="row">
+                    <div class="col-md-12 text-center theratio-align-center">
+                        <div class="ot-heading is-dots " style="padding-bottom:5px;">
+                            <span>[ OUR CLIENTS ]</span>
+                            <h2 class="main-heading">Clients</h2>
+                        </div>
+                        <div class="space-50"></div>
+                    </div>
+                </div>
+                <div class="sponsors-grid ">
+                    <div class="sponsor-logo"><img src="images/clients/client1.jpeg" alt="Sponsor 1" /></div>
+                    <div class="sponsor-logo"><img src="images/clients/client2.jpeg" alt="Sponsor 2" /></div>
+                    <div class="sponsor-logo"><img src="images/clients/client003.jpg" alt="Sponsor 3" /></div>
+                    <div class="sponsor-logo"><img src="images/clients/client4.jpeg" alt="Sponsor 4" /></div>
+                    <div class="sponsor-logo"><img src="images/clients/client005.jpg" alt="Sponsor 5" /></div>
+                    <div class="sponsor-logo"><img src="images/clients/client06.jpg" alt="Sponsor 6" /></div>
+                </div>
+            </section>
+
+
+
+
+
+
+
+
+
+
+
+
 
             <!-- CTA -->
             <section class="cta mt-1">
